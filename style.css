@@ -1,0 +1,16 @@
+.head{
+    background-color: yellow;
+    border-bottom:2rem;
+}
+.content{
+    background-color: blue;
+}
+.menu{
+    background-color: green;
+    height: 75%;
+
+}
+footer{
+    background-color: red;
+}
+
