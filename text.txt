@@ -1,0 +1,7 @@
+Apache, mysql
+
+xampp-contro.exe (pasta do xampp no C:)
+
+htdocs
+FundamentosWeb(github, dar um ctrl _ x e colar no htdocs no xamp no c:)
+depois vai no git e coloca o endereco no htdocs
