@@ -2,7 +2,7 @@
 include 'connect.php';
 
 
-$id = $_GET['idProduto'];
+$id = $_GET['idProduto'];// get = pegar
 
 $sql="delete from produto where idProduto=$id;";
 mysqli_query($con, $sql);
