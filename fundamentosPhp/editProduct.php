@@ -10,7 +10,7 @@
 
 
 <h1> Produtos </h1>
-        <form method="POST" action="#" enctype="multipart/form-data">
+        <form method="POST" action="editProdutoPost.php" enctype="multipart/form-data">
             <table>
                 <tr>
                     <td>
@@ -42,6 +42,3 @@
             
             </table>
         </form>   
-
-
-
